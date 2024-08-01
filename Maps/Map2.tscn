@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwec7eunqpxcl"]
+
+[ext_resource type="PackedScene" uid="uid://btbfqhjyx4tka" path="res://basic hallway.glb" id="1_meixh"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="basic hallway" parent="." instance=ExtResource("1_meixh")]

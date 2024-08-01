@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://drdysnyrj7t83"]
+
+[ext_resource type="PackedScene" uid="uid://bgrqdeu3qndqe" path="res://basic 4 way room.glb" id="1_nhyg7"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="basic 4 way room" parent="." instance=ExtResource("1_nhyg7")]
